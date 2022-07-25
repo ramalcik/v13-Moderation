@@ -1,3 +1,3 @@
 # v13-Moderation
-# v13 moderasyon botu atıcam yeni başlayanlar için ordan bakarak veya geliştirerek kullana bilirler her neyse 20 30 starda burda iyi günler.
+# v13 Moderasyon Botu Atıcam Yeni Başlayanlar İçin Ordan Bakarak Veya Geliştirerek Kullana Bilirler Ssleri Gelir Birazdan Her Neyse 20 30 Starda Burda İyi Günler.
 
